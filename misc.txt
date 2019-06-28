@@ -1,9 +1,6 @@
 !Microsoft IME Dictionary Tool
 !Version:
 !Format:WORDLIST
-!User Dictionary Name: C:\Users\anonymous\AppData\Roaming\Microsoft\IMJP14\imjp14cu.dic
-!Output File Name: C:\Users\anonymous\Documents\output1.txt
-!DateTime: 2013年07月17日 21:26
 
 かんたいこれくしょん	艦隊これくしょん	固有名詞
 かんこれ	艦これ	固有名詞
@@ -36,6 +33,15 @@
 しゅむしゅとう	占守島	地名その他
 おおほっけかい	大ホッケ海	地名その他
 すりがお	スリガオ	地名その他
+れいて	レイテ	地名その他
+ぱらわん	パラワン	地名その他
+しぶやんかい	シブヤン海	地名その他
+えんがのみさき	エンガノ岬	地名その他
+さまーる	サマール	地名その他
+ぶらけっと	ブラケット	地名その他
+くらわん	クラ湾	地名その他
+
+
 
 こんさくせん	渾作戦	固有名詞
 ふんどしさくせん	褌作戦	固有名詞
@@ -134,6 +140,7 @@
 せいせんおに	棲戦鬼	名詞
 せいせんき	棲戦姫	名詞
 せいせんひめ	棲戦姫	名詞
+せいすいき 棲水姫 名詞
 すいき	水鬼	名詞
 すいおに	水鬼	名詞
 すいき	水姫	名詞
