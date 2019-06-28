@@ -1,9 +1,6 @@
 !Microsoft IME Dictionary Tool
 !Version:
 !Format:WORDLIST
-!User Dictionary Name: C:\Users\anonymous\AppData\Roaming\Microsoft\IMJP14\imjp14cu.dic
-!Output File Name: C:\Users\anonymous\Documents\output1.txt
-!DateTime: 2013年07月17日 21:26
 
 ながと	長門	人名
 むつ	陸奥	人名
@@ -271,3 +268,46 @@
 １２すず	十二鈴	人名
 ぜかまし	ぜかまし	人名
 いずもまん	いずもマン	人名
+
+ろばーつ	Roberts	姓
+さみゅえる	Samuel	名
+さみゅえる	Samuel B.Roberts	人名
+さみゅえる	サミュエル・Ｂ・ロバーツ	人名
+さみゅえるびーろばーつ	Samuel B.Roberts	人名
+さみゅえるびーろばーつ	サミュエル・Ｂ・ロバーツ	人名
+さむ	Samuel B.Roberts	人名
+さむ	サミュエル・Ｂ・ロバーツ	人名
+
+ひぶり	日振	人名
+だいとう	大東	人名
+じゃーヴぃす	Jervis	人名
+じゃーびす	Jervis	人名
+はまなみ	浜波	人名
+たしゅけんと	Ташкент	人名
+がんびあべい	Gambier Bay	人名
+がんびあ	Gambier Bay	人名
+いんとれぴっど	Intrepid	人名
+
+きしなみ	岸波	人名
+ごと	Gotland	人名
+ごとらんど	Gotland	人名
+しんよう	神鷹	人名
+まえすとらーれ	Maestrale	人名
+まえすとらーれ	Maestrale	名詞
+ねるそん	Nelson	人名
+
+みねぐも	峯雲	人名
+はやなみ	早波	人名
+じょんすとん	Johnston	人名
+にっしん	日進	人名
+
+いしがき	石垣	人名
+はちじょう	八丈	人名
+ふれっちゃー	Fletcher	人名
+がりばるでぃ	Garibaldi	姓
+がりばるでぃ	G.Garibaldi	人名
+がりばるでぃ	Giuseppe Garibaldi	人名
+じゅぜっぺ	Giuseppe	名
+じゅぜっぺ	G.Garibaldi	人名
+じゅぜっぺ	Giuseppe Garibaldi	人名
+ころらど	Colorado	人名
