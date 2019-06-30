@@ -289,7 +289,6 @@
 いんとれぴっど	Intrepid	人名
 
 きしなみ	岸波	人名
-ごと	Gotland	人名
 ごとらんど	Gotland	人名
 しんよう	神鷹	人名
 まえすとらーれ	Maestrale	人名
