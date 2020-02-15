@@ -310,3 +310,18 @@
 じゅぜっぺ	G.Garibaldi	人名
 じゅぜっぺ	Giuseppe Garibaldi	人名
 ころらど	Colorado	人名
+
+みくら	御蔵	人名
+じぇーなす	Janus	人名
+あぶるっつぃ	Abruzzi	人名
+あぶるっつぃ	L.d.S.D.d.Abruzzi	人名
+ぐれかーれ	Grecale	人名
+
+ひらと	平戸	人名
+でろいてる	De Ruyter	人名
+で・ろいてる	De Ruyter	人名
+ぱーす	Perth	人名
+あとらんた	Atlanta	人名
+ひゅーすとん	Houston	人名
+あきしも	秋霜	人名
+しんしゅうまる	神州丸	人名
