@@ -1,21 +1,14 @@
 !Microsoft IME Dictionary Tool
 !Version:
 !Format:WORDLIST
+!https://wikiwiki.jp/kancolle/%E8%89%A6%E7%A8%AE%E3%81%94%E3%81%A8%E3%81%AE%E7%89%B9%E5%BE%B4
 
 ‚¹‚ñ‚©‚ñ	íŠÍ	–¼ŽŒ
+‚±‚¤‚»‚­‚¹‚ñ‚©‚ñ	‚‘¬íŠÍ	–¼ŽŒ
 ‚±‚¤‚­‚¤‚¹‚ñ‚©‚ñ	q‹óíŠÍ	–¼ŽŒ
-‚©‚¢‚»‚¤‚±‚¤‚­‚¤‚¹‚ñ‚©‚ñ	‰ü‘•q‹óíŠÍ	–¼ŽŒ
 ‚±‚¤‚¹‚ñ	qí	–¼ŽŒ
-‚¶‚ã‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d„—mŠÍ	–¼ŽŒ
-‚¶‚ã‚¤‚¶‚ã‚ñ	d„	–¼ŽŒ
-‚±‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	q‹ó„—mŠÍ	–¼ŽŒ
-‚±‚¤‚¶‚ã‚ñ	q„	–¼ŽŒ
-‚¯‚¢‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	Œy„—mŠÍ	–¼ŽŒ
-‚¯‚¢‚¶‚ã‚ñ	Œy„	–¼ŽŒ
-‚¶‚ã‚¤‚ç‚¢‚»‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d—‹‘•„—mŠÍ	–¼ŽŒ
-‚ç‚¢‚¶‚ã‚ñ	—‹„	–¼ŽŒ
-‚¶‚ã‚¤‚ç‚¢‚»‚¤‚©‚ñ	d—‹‘•ŠÍ	–¼ŽŒ
-‚­‚¿‚­‚©‚ñ	‹ì’€ŠÍ	–¼ŽŒ
+‚©‚¢‚»‚¤‚±‚¤‚­‚¤‚¹‚ñ‚©‚ñ	‰ü‘•q‹óíŠÍ	–¼ŽŒ
+
 ‚±‚¤‚­‚¤‚Ú‚©‚ñ	q‹ó•êŠÍ	–¼ŽŒ
 ‚­‚¤‚Ú	‹ó•ê	–¼ŽŒ
 ‚¹‚¢‚«‚­‚¤‚Ú	³‹K‹ó•ê	–¼ŽŒ
@@ -24,19 +17,40 @@
 ‚¯‚¢‚­‚¤‚Ú	Œy‹ó•ê	–¼ŽŒ
 ‚¯‚¢‚Ú	Œy•ê	–¼ŽŒ
 ‚²‚¦‚¢‚­‚¤‚Ú	Œì‰q‹ó•ê	–¼ŽŒ
+
 ‚·‚¢‚¶‚å‚¤‚«‚Ú‚©‚ñ	…ã‹@•êŠÍ	–¼ŽŒ
 ‚·‚¢‚Ú	…•ê	–¼ŽŒ
-‚Ù‚«‚ã‚¤‚©‚ñ	•â‹‹ŠÍ	–¼ŽŒ
+
+‚¶‚ã‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d„—mŠÍ	–¼ŽŒ
+‚¶‚ã‚¤‚¶‚ã‚ñ	d„	–¼ŽŒ
+‚±‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	q‹ó„—mŠÍ	–¼ŽŒ
+‚±‚¤‚¶‚ã‚ñ	q„	–¼ŽŒ
+
+‚¯‚¢‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	Œy„—mŠÍ	–¼ŽŒ
+‚¯‚¢‚¶‚ã‚ñ	Œy„	–¼ŽŒ
+‚Ú‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	–h‹ó„—mŠÍ	–¼ŽŒ
+‚¯‚¢‚±‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	Œy(q‹ó)„—mŠÍ	–¼ŽŒ
+‚¶‚ã‚¤‚ç‚¢‚»‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	d—‹‘•„—mŠÍ	–¼ŽŒ
+‚ç‚¢‚¶‚ã‚ñ	—‹„	–¼ŽŒ
+‚¶‚ã‚¤‚ç‚¢‚»‚¤‚©‚ñ	d—‹‘•ŠÍ	–¼ŽŒ
+
+‚­‚¿‚­‚©‚ñ	‹ì’€ŠÍ	–¼ŽŒ
+
+‚©‚¢‚Ú‚¤‚©‚ñ	ŠC–hŠÍ	–¼ŽŒ
+
+‚¹‚ñ‚·‚¢‚©‚ñ	ö…ŠÍ	–¼ŽŒ
 ‚¹‚ñ‚·‚¢‚­‚¤‚Ú	ö…‹ó•ê	–¼ŽŒ
-‚¹‚ñ‚Ú	ö•ê	–¼ŽŒ
+
 ‚¹‚ñ‚·‚¢‚Ú‚©‚ñ	ö…•êŠÍ	–¼ŽŒ
+‚¹‚ñ‚Ú	ö•ê	–¼ŽŒ
 ‚¹‚ñ‚Ú‚©‚ñ	ö•êŠÍ	–¼ŽŒ
-‚±‚¤‚³‚­‚©‚ñ	HìŠÍ	–¼ŽŒ
+
 ‚æ‚¤‚è‚­‚©‚ñ	—g—¤ŠÍ	–¼ŽŒ
+‚±‚¤‚³‚­‚©‚ñ	HìŠÍ	–¼ŽŒ
 ‚ê‚ñ‚µ‚ã‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	—ûK„—mŠÍ	–¼ŽŒ
 ‚ê‚ñ‚¶‚ã‚ñ	—û„	–¼ŽŒ
-‚©‚¢‚Ú‚¤‚©‚ñ	ŠC–hŠÍ	–¼ŽŒ
-‚Ú‚¤‚­‚¤‚¶‚ã‚ñ‚æ‚¤‚©‚ñ	–h‹ó„—mŠÍ	–¼ŽŒ
+‚Ù‚«‚ã‚¤‚©‚ñ	•â‹‹ŠÍ	–¼ŽŒ
+
 ‚Æ‚­‚Þ‚©‚ñ	“Á–±ŠÍ	–¼ŽŒ
 ‚Æ‚¤‚¾‚¢‚Ù‚«‚ã‚¤‚¹‚ñ	“”‘ä•â‹‹‘D	–¼ŽŒ
 ‚È‚ñ‚«‚å‚­‚©‚ñ‚»‚­‚¹‚ñ	“ì‹ÉŠÏ‘ª‘D	–¼ŽŒ
