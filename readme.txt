@@ -18,30 +18,8 @@ ship1/2.txt ‚Å‚ÍAƒVƒXƒeƒ€Ž«‘‚ÉŠÜ‚Ü‚ê‚Ä‚¢‚é‚©‚Ç‚¤‚©‚ÉŠÖ‚í‚ç‚¸A‘S‚Ä‚ÌŠÍ‘D–¼‚ðŽû
 Å‹ß‚ÌƒƒWƒƒ[‚È IME ‚Í‘¼‚ÌƒƒWƒƒ[‚È IME ‚ÌŒ`Ž®‚ð“Ç‚Ýž‚Þ‚±‚Æ‚ª‚Å‚«‚Ü‚·B
 ATOK ‚Æ Google IME ‚Å‚Í“Ç‚Ýž‚ß‚½‚Æ‚¢‚¤•ñ‚ª‚ ‚è‚Ü‚·B
 
-ƒ\[ƒX‚Í GitHub https://github.com/umezawatakeshi/kancolle-dic ‚ÅŒöŠJ‚µ‚Ä‚¢‚Ü‚·B
+ƒ\[ƒX‚Í GitHub https://github.com/smbd/kancolle-dic ‚ÅŒöŠJ‚µ‚Ä‚¢‚Ü‚·B
 ƒŠƒ|ƒWƒgƒŠ‚Å‚Í“K‹XC³‚ªs‚í‚ê‚Ä‚¢‚é‚½‚ßAÅVó‘Ô‚ª•K—v‚Èê‡‚Í‚»‚¿‚ç‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B
-
-----
-ì¬ŽÒ  : ”~àVˆÐŽu/‚ä[‚Þ—‰¡’Á
-blog    : http://umezawa.dyndns.info/
-twitter : @umezawa_takeshi
---------------------------------------------------------------------------------
---- forked by Cluele
-
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ(Cluele/kancolle-dic)‚ÍƒtƒH[ƒNŒ³‚Å‚ ‚é”~àVŽ‚ÌŠÍ‚±‚êIMEŽ«‘“o˜^—pƒtƒ@ƒCƒ‹‚É–¢“o˜^‚ÌŠÍ–ºE’n–¼E•ŠíEŠÍŽí“™‚ÉŠÖ‚·‚é—pŒê‚ð’Ç‹L‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚µ‚Ä‚¢‚Ü‚·B
-
-‚±‚Ì zip ‚É‚ÍˆÈ‰º‚Ìƒtƒ@ƒCƒ‹‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B
-
-  readme.txt     ‚±‚Ìƒtƒ@ƒCƒ‹
-  ship1.txt      ŠÍ‘D–¼il–¼ˆµ‚¢j
-  ship2.txt      ŠÍ‘D–¼iŒÅ—L–¼ŽŒˆµ‚¢j
-  shiptype.txt   ŠÍŽí
-  weapon.txt     ‘•”õE‘•”õŽí
-  misc.txt       ‚»‚Ì‘¼‚ÌŠÍ‚±‚êŠÖ˜A—pŒê
-
-ƒ\[ƒX‚Í Github https://github.com/Cluele/kancolle-dic/ ‚ÅŒöŠJ‚µ‚Ä‚¢‚Ü‚·B
-ƒŠƒ|ƒWƒgƒŠ‚Å‚ÍVŠÍ–ºŽÀ‘•‚âVƒCƒxƒ“ƒgŒã‚ÉXV‚ðs‚Á‚Ä‚¢‚­—\’è‚Å‚·B•K—v‚Èê‡‚ÍƒAƒbƒvƒf[ƒg‚µ‚Ä‚­‚¾‚³‚¢B
-
 
 ˆÈ‰º‚ÍŠJ”­ŽÒŒü‚¯‚Ìƒƒ‚‚Å‚·BIME‚©‚çŽ«‘“o˜^‚ð‚·‚é‚¾‚¯‚Ìê‡‚Í‰º‹L‚ðs‚¤•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
 
@@ -50,5 +28,12 @@ makefile‚ðŽg—p‚µ‚Äship2.txt‚ð¶¬‚·‚éê‡APerl‚Æmake‚ÌŽÀsŠÂ‹«‚ð—pˆÓ‚µ‚ÄmakeƒRƒ
 Windowsƒ†[ƒU[‚Ìê‡‚ÍGnuWin32‚È‚Ç‚ÌGNU Tools‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚ÄŠÂ‹«•Ï”ƒpƒX‚ð’Ê‚µŠÂ‹«‚ð\’z‚µ‚Ä‚­‚¾‚³‚¢B
 ‚»‚µ‚ÄPerl‚ÌŽÀsŠÂ‹«‚ð“¯Windowsƒ}ƒVƒ“ã‚É—pˆÓ‚µ‚Ä‚­‚¾‚³‚¢B
 
+----
+ì¬ŽÒ  : ”~àVˆÐŽu/‚ä[‚Þ—‰¡’Á
+blog    : http://umezawa.dyndns.info/
+twitter : @umezawa_takeshi
+----
 ‰ü•ÏŽÒ  : Cluele
+----
+‰ü•Ï‚»‚Ì2: smbd
 --------------------------------------------------------------------------------
