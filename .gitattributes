@@ -1,1 +1,1 @@
-*.txt eol=crlf encoding=cp932
+*.txt eol=crlf encoding=cp932 diff=sjis
